@@ -32,10 +32,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 │ </br>
 ├─app</br>
 │   ├─api </br>
-│   │      └─v1 </br>
-│   │         ├─health </br>
-│   │         └─users </br>
-│   │              └──[id] </br>
+│   │     └─v1 </br>
+│   │           ├─health </br>
+│   │           └─users </br>
+│   │                   └─[id] </br>
 │   ├─list </br>
 │   ├─login </br>
 │   └─signin </br>
