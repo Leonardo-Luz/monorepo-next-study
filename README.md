@@ -30,22 +30,20 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Directory Tree
 │ </br>
-├── app </br>
-│   ├── api </br>
-│   │   └── v1 </br>
-│   │       ├── health </br>
-│   │       └── users </br>
-│   │           └── [id] </br>
-│   ├── list </br>
-│   ├── login </br>
-│   └── signin </br>
-├── components </br>
-├── lib </br>
-├── public </br>
-└── utils </br>
+├─app</br>
+│   ├─api </br>
+│   │      └─v1 </br>
+│   │         ├─health </br>
+│   │         └─users </br>
+│   │              └──[id] </br>
+│   ├─list </br>
+│   ├─login </br>
+│   └─signin </br>
+├─components </br>
+├─lib </br>
+├─public </br>
+└─utils </br>
 
 14 directories
-
-7 directories
 
 ## License
